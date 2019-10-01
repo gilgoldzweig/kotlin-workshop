@@ -1,2 +1,2 @@
-package day1.workshop1
+package day3.workshop1
 
