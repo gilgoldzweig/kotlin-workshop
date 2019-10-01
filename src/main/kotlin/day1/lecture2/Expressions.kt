@@ -4,6 +4,7 @@ package day1.lecture2
  * Fill in the functions below
  */
 fun main() {
+    //Dont write your code here
     assert(returnLastNameWithIf("Hadas") == "Peled")
     assert(returnLastNameWithIf("Gil") == "Unknown")
 
@@ -11,6 +12,7 @@ fun main() {
     assert(returnLastNameWithWhenStatment("Gil") == "Goldzweig")
     assert(returnLastNameWithWhenStatment("Eden") == "Bugdary")
     assert(returnLastNameWithWhenStatment("Refael") == "Unknown")
+    //Dont write your code here
 }
 
 /**
