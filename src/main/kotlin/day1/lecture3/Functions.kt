@@ -17,12 +17,12 @@ fun main() {
 }
 
 /**
- * Make the function [println] -> "Hello world"
+ * Change the function so it will [println] -> "Hello world"
  */
 fun hello() {}
 
 /**
- * Add two parameters to the function and make it [println] -> "Hello [firsName] [lastName]"
+ * Add two parameters to the function and write the code so it will [println] -> "Hello [firsName] [lastName]"
  *
  * @param firstName with type [String] with a default value of "Erez"
  * @param lastName with type [String] without default value
