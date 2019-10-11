@@ -1,4 +1,4 @@
-package day1.lecture1.answers
+package day1.lecture1.solutions
 
 /**
  * Create a nullable integer variable
