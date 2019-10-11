@@ -15,7 +15,7 @@ package day1.lecture2.exercises
 fun main() {
     //Write your code below this line
 
-    //Create the ranges below this line5
+    //Create the ranges below this line
 
     //Use the ranges with an if statement below this line
 
