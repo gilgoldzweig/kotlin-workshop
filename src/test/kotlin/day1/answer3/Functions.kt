@@ -1,4 +1,4 @@
-package day1.lecture3
+package day1.answer3
 
 /**
  * Fix the functions below to make the produce the output below
@@ -9,26 +9,29 @@ package day1.lecture3
  *       -> "The school size times 5 is 500"
  */
 fun main() {
-    //Uncomment below after your done
-
-//    hello()
-//    helloWithDefaultArguments("Gil", "Brown")
-//    helloWithDefaultArguments(lastName = "Brown")
-//    println("The school size times 5 is ${schoolSizeTimes(100, 5)}")
+    //Don't change the code below
+    hello()
+    helloWithDefaultArguments("Gil", "Brown")
+    helloWithDefaultArguments(lastName = "Brown")
+    println("The school size times 5 is ${schoolSizeTimes(100, 5)}")
 }
 
 /**
  * Change the function so it will [println] -> "Hello world"
  */
-fun hello() {}
+fun hello() {
+    println("Hello world")
+}
 
 /**
- * Add two parameters to the function and write the code so it will [println] -> "Hello [firsName] [lastName]"
+ * Add two parameters to the function and write the code so it will [println] -> "Hello [firstName] [lastName]"
  *
  * @param firstName with type [String] with a default value of "Erez"
  * @param lastName with type [String] without default value
  */
-fun helloWithDefaultArguments() {}
+fun helloWithDefaultArguments(firstName: String = "Erez", lastName: String) {
+    println("Hello $firstName $lastName")
+}
 
 /**
  * Change the function to fit the rules below as a single line function
@@ -38,4 +41,4 @@ fun helloWithDefaultArguments() {}
  *
  * @return [currentStudentsSize] * [times]
  */
-fun schoolSizeTimes() {}
+fun schoolSizeTimes(currentStudentsSize: Int, times: Int) = currentStudentsSize * times
