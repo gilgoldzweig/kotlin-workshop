@@ -21,6 +21,7 @@ package day1.lecture4.solutions
  */
 
 fun main() {
+    SimpleSpice()
 }
 
 class SimpleSpice(val name: String = "curry", private val spiciness: String = "mild"){
