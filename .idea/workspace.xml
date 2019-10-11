@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d934aaf-cce8-49b0-a507-f100c489caf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/solutions/emoty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture1/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture2/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture3/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture2/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture3/solutions/empty.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture4/solutions/empty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/answers/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/NullSafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/3_NullSafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/1_Operators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/4_Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/2_Variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/3_NullSafety.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/4_Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/empty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,37 +42,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/solutions/emoty.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/4_Strings.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture1/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture2/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="340">
+              <caret line="20" column="28" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -126,11 +95,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture4/solutions/empty.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/4_Strings.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -179,6 +175,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Functions.kt" />
         <option value="$PROJECT_DIR$/build.gradle.kts" />
         <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/empty.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/Strings.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt" />
       </list>
     </option>
   </component>
@@ -235,6 +234,16 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
               <item name="lecture1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture1" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -572,6 +581,21 @@
       <workItem from="1570474323944" duration="1195000" />
       <workItem from="1570795815094" duration="1485000" />
     </task>
+    <task id="LOCAL-00001" summary="add solutions dir">
+      <created>1570799691761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570799691761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="strings solution">
+      <created>1570799768413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570799768413</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -661,11 +685,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;answers directories #2&quot;&#10;&#10;This reverts commit 820748d3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;answers directories #2&quot;&#10;&#10;This reverts commit 820748d3" />
+    <MESSAGE value="add solutions dir" />
+    <MESSAGE value="strings solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="strings solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Filters.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Repeat.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Lambdas.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/VisibilityModifiers.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answers4/lecture4/VisibilityModifiers.kt" />
@@ -716,21 +740,14 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/NullSafety.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/3_NullSafety.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/NullSafety.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/3_NullSafety.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
@@ -739,13 +756,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/empty.kt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/empty.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/solutions/emoty.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -814,6 +824,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/4_Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="28" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/4_Strings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
