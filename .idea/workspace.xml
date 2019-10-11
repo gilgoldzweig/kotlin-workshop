@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d934aaf-cce8-49b0-a507-f100c489caf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/solutions/1_Classes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/3_NullSafety.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/1_Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/4_Strings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/2_Variables.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/NullSafety.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/3_NullSafety.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/4_Strings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/empty.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/2_Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/Conditions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/Expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/4_Expressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/3_Ranges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/Filters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/2_Filters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/1_Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/Lambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/3_Repeat.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/Repeat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/4_Lambdas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/1_Classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/solutions/empty.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,33 +49,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="28" selection-end-line="29" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/empty.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -122,13 +98,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/1_Classes.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/solutions/1_Classes.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/exercises/Collections.kt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -178,6 +177,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/Strings.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/solutions/1_Classes.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/1_Classes.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/solutions/1_Classes.kt" />
       </list>
     </option>
   </component>
@@ -301,6 +303,16 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
               <item name="lecture3" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
               <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -310,6 +322,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -319,7 +341,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
               <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -338,6 +360,16 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
               <item name="lecture1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture1" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -357,6 +389,16 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
               <item name="lecture2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture2" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -384,7 +426,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
+              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -394,7 +437,6 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day2" type="462c0819:PsiDirectoryNode" />
               <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -459,16 +501,6 @@
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
               <item name="day3" type="462c0819:PsiDirectoryNode" />
               <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day3" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -482,7 +514,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/solutions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -499,18 +531,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="day1.lecture4" />
       <recent name="day3.lecture4" />
       <recent name="day3.lecture3" />
       <recent name="day3.lecture2" />
       <recent name="day3.lecture1" />
-      <recent name="day2.lecture4" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day1\lecture4\exercises\solutions" />
       <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day1\lecture3\exercises" />
       <recent name="$PROJECT_DIR$/src/test/kotlin" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/day2/answer2" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/day2/answer4" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/day2/answer3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -595,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570799768413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="when exercise + solution">
+      <created>1570800230019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570800230019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -626,7 +665,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.46575344" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.46465817" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -687,12 +726,10 @@
     <MESSAGE value="Revert &quot;answers directories #2&quot;&#10;&#10;This reverts commit 820748d3" />
     <MESSAGE value="add solutions dir" />
     <MESSAGE value="strings solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="strings solution" />
+    <MESSAGE value="when exercise + solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="when exercise + solution" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Lambdas.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/VisibilityModifiers.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answers4/lecture4/VisibilityModifiers.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answers4/lecture2/Arrays.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answers4/lecture1/Operators.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answers4/lecture1/Variables.kt" />
@@ -850,8 +887,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/solutions/1_When.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/exercises/1_Classes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/exercises/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture4/solutions/1_Classes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>
