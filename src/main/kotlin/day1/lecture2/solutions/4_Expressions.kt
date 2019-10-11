@@ -1,4 +1,4 @@
-package day1.lecture2
+package day1.lecture2.solutions
 
 /**
  * Fill in the functions below
@@ -8,10 +8,10 @@ fun main() {
     assert(returnLastNameWithIf("Hadas") == "Peled")
     assert(returnLastNameWithIf("Gil") == "Unknown")
 
-    assert(returnLastNameWithWhenStatment("Hadas") == "Peled")
-    assert(returnLastNameWithWhenStatment("Gil") == "Goldzweig")
-    assert(returnLastNameWithWhenStatment("Eden") == "Bugdary")
-    assert(returnLastNameWithWhenStatment("Refael") == "Unknown")
+    assert(returnLastNameWithWhenStatement("Hadas") == "Peled")
+    assert(returnLastNameWithWhenStatement("Gil") == "Goldzweig")
+    assert(returnLastNameWithWhenStatement("Eden") == "Bugdary")
+    assert(returnLastNameWithWhenStatement("Refael") == "Unknown")
     //Dont write your code here
 }
 
@@ -23,10 +23,10 @@ fun main() {
  */
 fun returnLastNameWithIf(firstName: String): String {
     //Write your code below this line
-    return if (firstName) {
-
+    return if (firstName == "Hadas") {
+        "Peled"
     } else {
-
+        "Unknown"
     }
 }
 
@@ -38,9 +38,15 @@ fun returnLastNameWithIf(firstName: String): String {
  * @return "Bugdary" if first name is "Eden"
  * @return "Unknown" if the first name is not "Gil" or "Hadas" or "Eden"
  */
-fun returnLastNameWithWhenStatment(firstName: String): String {
+fun returnLastNameWithWhenStatement(firstName: String): String {
     //Write your code below this line
     return when (firstName) {
+        "Hadas" -> "Peled"
 
+        "Gil" -> "Goldzweig"
+
+        "Eden" -> "Bugdary"
+
+        else -> "Unknown"
     }
 }

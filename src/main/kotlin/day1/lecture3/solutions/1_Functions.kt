@@ -1,4 +1,4 @@
-package day1.answer3
+package day1.lecture3.solutions
 
 /**
  * Fix the functions below to make the produce the output below
@@ -9,7 +9,7 @@ package day1.answer3
  *       -> "The school size times 5 is 500"
  */
 fun main() {
-    //Don't change the code below
+    //Uncomment below after your done
     hello()
     helloWithDefaultArguments("Gil", "Brown")
     helloWithDefaultArguments(lastName = "Brown")
@@ -24,7 +24,7 @@ fun hello() {
 }
 
 /**
- * Add two parameters to the function and write the code so it will [println] -> "Hello [firstName] [lastName]"
+ * Add two parameters to the function and write the code so it will [println] -> "Hello [firsName] [lastName]"
  *
  * @param firstName with type [String] with a default value of "Erez"
  * @param lastName with type [String] without default value

@@ -1,4 +1,4 @@
-package day2.lecture3
+package day2.lecture3.solutions
 
 /**
  * One book is rarely alone, and one author rarely writes just one book.
@@ -16,5 +16,12 @@ package day2.lecture3
  * mapOf() may come in handy.
  */
 fun main() {
+    val allBooks = setOf("Macbeth", "Romeo and Juliet", "Hamlet", "A Midsummer Night's Dream")
+    val library = mapOf("Shakespeare" to allBooks)
+    println(library.any { it.value.contains("Hamlet") })
 
+    val moreBooks = mutableMapOf<String, String>("Wilhelm Tell" to "Schiller")
+    moreBooks.getOrPut("Jungle Book") { "Kipling" }
+    moreBooks.getOrPut("Hamlet") { "Shakespeare" }
+    println(moreBooks)
 }

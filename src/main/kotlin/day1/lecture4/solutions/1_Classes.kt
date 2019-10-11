@@ -21,6 +21,22 @@ package day1.lecture4.solutions
  */
 
 fun main() {
+    SimpleSpice()
 }
 
-class SimpleSpice(val name: String = "curry", val spiciness: String = "mild")
+class SimpleSpice(val name: String = "curry", private val spiciness: String = "mild"){
+    private val heat
+        get() = when (spiciness){
+            "not spicy" -> 0
+            "mild" -> 5
+            "hot" -> 7
+            "extra hot" -> 10
+            else -> {
+                0
+            }
+        }
+
+    init {
+        println("$name , $heat")
+    }
+}
