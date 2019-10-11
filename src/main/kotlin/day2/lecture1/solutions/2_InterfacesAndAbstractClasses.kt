@@ -1,7 +1,5 @@
 package day2.lecture1.solutions
 
-import day2.lecture1.solutions.Spice as Spice1
-
 /**
  *
  * Let's go back to your spices.
@@ -37,7 +35,7 @@ abstract class Spice(val spiciness :Int = 5){
     abstract fun prepareSpice()
 }
 
-class Curry(spiciness :Int) : Spice1(spiciness), Grinder {
+class Curry(spiciness :Int) : Spice(spiciness), Grinder {
     override val name: String = this::class.simpleName.toString()
     override fun prepareSpice() {
         grind()
