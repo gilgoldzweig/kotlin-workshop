@@ -1,9 +1,5 @@
 package day3.lecture3.exercises
 
-import day3.lecture3.solutions.Colors.BLACK
-import day3.lecture3.solutions.Colors.BROWN
-import day3.lecture3.solutions.Colors.WHITE
-import day3.lecture3.solutions.Utils.getRandom
 
 
 /**
