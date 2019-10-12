@@ -1,4 +1,4 @@
-package day2.lecture1.exercises
+package day2.lecture1.solutions
 
 /**
  * Create a class, Book, with a title and an author.
@@ -10,10 +10,20 @@ package day2.lecture1.exercises
  * Override the readPage() method to increase the word count by 250, (the average number of words per page from typewriter days).
  */
 
-//Modify the code below this line
+open class Book(val title: String, val author: String) {
 
-//class Book
+    private var currentPage = 1
 
+    open fun readPage() {
+        currentPage++
+    }
+}
 
-//class eBook
+class eBook(title: String, author: String, var format: String = "text") : Book(title, author) {
 
+    private var wordsRead = 0
+
+    override fun readPage() {
+        wordsRead = wordsRead + 250
+    }
+}
