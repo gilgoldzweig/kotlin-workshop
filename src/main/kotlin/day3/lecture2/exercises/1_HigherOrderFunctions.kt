@@ -1,4 +1,4 @@
-package day3.lecture3.exercises
+package day3.lecture2.exercises
 
 /**
  * Change the function so that it will:

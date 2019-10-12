@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d934aaf-cce8-49b0-a507-f100c489caf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/exercises/1_ConstVal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/1_ConstVal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/1_Generics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day2/lecture3/solutions/empty.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/exercises/1_Extensions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/exercises/2_Extensions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/empty.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/exercises/file.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/exercises/1_Generics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/empty.kt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -38,11 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/1_ConstVal.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture1/exercises/1_Generics.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="561">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/1_Generics.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -106,10 +114,11 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/day2/lecture3/solutions/1_Pairs.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/exercises/1_ConstVal.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/day2/lecture4/solutions/1_ConstVal.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/1_Generics.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -119,8 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,7 +159,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="day2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +167,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
               <item name="lecture1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,7 +184,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
               <item name="lecture1" type="462c0819:PsiDirectoryNode" />
               <item name="exercises" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -179,109 +194,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
+              <item name="day3" type="462c0819:PsiDirectoryNode" />
               <item name="lecture1" type="462c0819:PsiDirectoryNode" />
               <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day1" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture3" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin-workshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin-workshop" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-              <item name="lecture4" type="462c0819:PsiDirectoryNode" />
-              <item name="solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -306,9 +232,6 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day2\lecture4\exercises" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="day1" />
     </key>
@@ -318,6 +241,9 @@
       <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day2\lecture1\solutions" />
       <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day1\lecture4\solutions" />
       <recent name="$PROJECT_DIR$/src/test/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hadas\Downloads\kotlin-workshop\src\main\kotlin\day2\lecture4\exercises" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -332,25 +258,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.day2.lecture4.solutions._1_ConstValKt">
+  <component name="RunManager" selected="Kotlin.day3.lecture1.solutions._1_GenericsKt">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day1.lecture1.solutions._4_StringsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlin-workshop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="day1.lecture1.solutions._4_StringsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="day1.lecture4.solutions._1_ClassesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -405,13 +318,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day3.lecture1.solutions._1_GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-workshop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="day3.lecture1.solutions._1_GenericsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.day3.lecture1.solutions._1_GenericsKt" />
         <item itemvalue="Kotlin.day2.lecture4.solutions._1_ConstValKt" />
         <item itemvalue="Kotlin.day2.lecture1.solutions._3_InterfaceDelegationsKt" />
         <item itemvalue="Kotlin.day2.lecture1.solutions._2_InterfacesAndAbstractClassesKt" />
         <item itemvalue="Kotlin.day1.lecture4.solutions._1_ClassesKt" />
-        <item itemvalue="Kotlin.day1.lecture1.solutions._4_StringsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -468,7 +394,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33458647" />
+      <window_info id="Resources Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33942" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -477,12 +404,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26882967" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26882967" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32792583" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3626883" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.40644363" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
@@ -545,8 +472,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="pairs" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answer1/lecture1/Variables.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answer1/lecture1/Strings.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answer1/NullSafety.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lשמד׳קר3/Filters.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/answer3/Filters.kt" />
@@ -559,16 +484,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/Collections.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/Pairs.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture4/Extensions.kt" />
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer1/Strings.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer3/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer1/Strings.kt" />
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer3/Functions.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/NullSafety.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/Functions.kt" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -589,11 +506,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture3/exercises/Functions.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/Conditions.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture2/exercises/SpecialPurposeClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-246" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture2/exercises/SpecialPurposeClasses.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture4/exercises/Extensions.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/exercises/4_Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -612,13 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture3/solutions/empty.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture3/solutions/empty.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture4/solutions/empty.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -626,9 +533,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer1/NullSafety.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer1/NullSafety.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture2/exercises/1_When.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -674,13 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer2/Expressions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="25" column="17" selection-start-column="2" selection-end-line="45" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/day1/answer2/Expressions.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day1/lecture1/solutions/4_Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -688,12 +587,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/exercises/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture1/solutions/Spice.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture3/exercises/Collections.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture1/solutions/Spice.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/day2/lecture1/solutions/2_InterfacesAndAbstractClasses.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -747,6 +642,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
           <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture1/exercises/1_Generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/day3/lecture1/solutions/1_Generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
         </state>
       </provider>
     </entry>
