@@ -9,7 +9,7 @@ import day3.lecture3.solutions.Utils.getRandom
 /**
  *
  * Create two files -
- * one in kotlin and another one in java, name the java file "MyClass"
+ * one in kotlin and another one in java, name the java file "JvmClass"
  *
  * Your java file should look like this:
 
