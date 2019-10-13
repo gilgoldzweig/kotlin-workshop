@@ -3,7 +3,7 @@ package day3.lecture3.solutions
 /**
  * Remember SAM?
  *
- * In Java we have the folowing inreface:
+ * In Java we have the following interface:
  *
  * 		public interface Comparator<T> {
  * 			int compare(T o1, T o2);
