@@ -1,6 +1,7 @@
 package day3.lecture2.exercises
 
 /**
+ * Create a function named `filter`.
  * Change the function so that it will:
  *
  * @receiver Extension function on [MutableList] of type [E]
@@ -8,5 +9,6 @@ package day3.lecture2.exercises
 
  * @return A filtered list based on the [filter] lambda
  */
+
 fun filter() {
 }

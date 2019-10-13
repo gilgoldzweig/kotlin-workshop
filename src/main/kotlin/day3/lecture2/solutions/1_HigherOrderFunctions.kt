@@ -1,6 +1,7 @@
 package day3.lecture2.solutions
 
 /**
+ * Create a function named `filter`.
  * Change the function so that it will:
  *
  * @receiver Extension function on [MutableList] of type [E]
