@@ -1,7 +1,6 @@
 package day1.lecture1.exercises
 
 /**
- * Open REPL ( Tools-> Kotlin-> Kotlin REPL
  *
  * Create a String variable rainbowColor, set its color value to yellow.
  *
@@ -12,3 +11,8 @@ package day1.lecture1.exercises
  * Try changing it anyway.
  *
  */
+
+
+fun main() {
+    //Write your code here
+}

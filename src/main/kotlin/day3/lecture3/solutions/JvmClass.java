@@ -2,7 +2,7 @@ package day3.lecture3.solutions;
 
 
 
-public class MyClass {
+public class JvmClass {
 
     public static void main(String[] args) {
 //        Bear bear = new Bear();
