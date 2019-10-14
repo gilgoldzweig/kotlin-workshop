@@ -1,7 +1,6 @@
 package day1.lecture1.solutions
 
 /**
- * Open REPL ( Tools-> Kotlin-> Kotlin REPL)
  *
  * 1.
  *      2 + 5
