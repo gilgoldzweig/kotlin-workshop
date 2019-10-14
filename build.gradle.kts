@@ -42,5 +42,5 @@ java {
 
 
 tasks.withType<KotlinCompile> {
-    kotlinOptions.jvmTarget = "1.9"
+    kotlinOptions.jvmTarget = "1.8"
 }
