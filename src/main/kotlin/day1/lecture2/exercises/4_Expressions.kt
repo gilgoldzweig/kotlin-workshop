@@ -8,10 +8,10 @@ fun main() {
 //    assert(returnLastNameWithIf("Hadas") == "Peled")
 //    assert(returnLastNameWithIf("Gil") == "Unknown")
 //
-//    assert(returnLastNameWithWhenStatment("Hadas") == "Peled")
-//    assert(returnLastNameWithWhenStatment("Gil") == "Goldzweig")
-//    assert(returnLastNameWithWhenStatment("Eden") == "Bugdary")
-//    assert(returnLastNameWithWhenStatment("Refael") == "Unknown")
+//    assert(returnLastNameWithWhenStatement("Hadas") == "Peled")
+//    assert(returnLastNameWithWhenStatement("Gil") == "Goldzweig")
+//    assert(returnLastNameWithWhenStatement("Eden") == "Bugdary")
+//    assert(returnLastNameWithWhenStatement("Refael") == "Unknown")
     //Uncomment when done
 }
 
